@@ -25,15 +25,13 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/Gwonwoo-Nam"><img src="https://avatars.githubusercontent.com/Gwonwoo-Nam" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/HyowonSin"><img src="https://avatars.githubusercontent.com/HyowonSin" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><img src="https://avatars.githubusercontent.com/jaea-kim" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/leegyeongwhan"><img src="https://avatars.githubusercontent.com/leegyeongwhan" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/23Yong"><img src="https://avatars.githubusercontent.com/23Yong" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/new-pow"><img src="https://avatars.githubusercontent.com/new-pow" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Gwonwoo-Nam"><b>Gwonwoo-Nam</b></a></td>
-    <td align="center"><a href="https://github.com/HyowonSin"><b>HyowonSin</b></a></td>
-    <td align="center"><a href="https://github.com/jaea-kim"><b>jaea-kim</b></a></td>
+    <td align="center"><a href="https://github.com/leegyeongwhan"><b>leegyeongwhan</b></a></td>
     <td align="center"><a href="https://github.com/23Yong"><b>23Yong</b></a></td>
     <td align="center"><a href="https://github.com/new-pow"><b>new-pow</b></a></td>
   </tr>
@@ -41,7 +39,7 @@
 
 <br/>
 
-## 주차별 주제
+## 진행 내용
 
 <br>
 
