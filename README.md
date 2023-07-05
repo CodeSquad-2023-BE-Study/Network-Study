@@ -44,8 +44,8 @@
 <br>
 
 |   주차    | 주제 |
-|:-------:|:-------:|
-| 1주차 | [주제-이린.md]() </br> |
+|:-------|:-------|
+| 1주차 | [HTTP 요청과 응답 흐름을 이해-leegyeongwhan.md](./week1/HTTP요청과-응답-흐름을-이해-leegyeongwhan.md) </br> [이린의 주제-leegyeongwhan.md](./week1/HTTP요청과-응답-흐름을-이해-leegyeongwhan.md) </br> [이린의 주제-leegyeongwhan.md](./week1/HTTP요청과-응답-흐름을-이해-leegyeongwhan.md) </br> [이린의 주제-leegyeongwhan.md](./week1/HTTP요청과-응답-흐름을-이해-leegyeongwhan.md)|
 | 2주차 | [1장. ]() |
 | 3주차 | [1장. ]() |
 | 4주차 | [1장. ]() |
